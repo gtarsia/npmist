@@ -1,5 +1,5 @@
 {
-  "name": "search-js-web",
+  "name": "@npmist/web",
   "version": "0.1.0",
   "private": true,
   "scripts": {
