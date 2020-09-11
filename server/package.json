@@ -27,6 +27,6 @@
     "koa-response-cache": "^1.0.5",
     "koa-router": "^7.4.0",
     "lodash": "^4.17.11",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
